@@ -1,0 +1,6 @@
+.config: |-
+  CLIENT_END_POINT_URL="https://example.com"
+  CLIENT_END_POINT_DOMAIN="example.com"
+  CLIENT_URL="https://example-domain.com"
+  CLIENT_AMPLITUDE_API_KEY="qsdasdas"
+  CLIENT_GA_MEASUREMENT_ID="G-5D099GJQKB"
